@@ -1,0 +1,10 @@
+C:\Users\thaboc\ServiceB\bin\Debug\netcoreapp2.0\ServiceB.deps.json
+C:\Users\thaboc\ServiceB\bin\Debug\netcoreapp2.0\ServiceB.runtimeconfig.json
+C:\Users\thaboc\ServiceB\bin\Debug\netcoreapp2.0\ServiceB.runtimeconfig.dev.json
+C:\Users\thaboc\ServiceB\bin\Debug\netcoreapp2.0\ServiceB.dll
+C:\Users\thaboc\ServiceB\bin\Debug\netcoreapp2.0\ServiceB.pdb
+C:\Users\thaboc\ServiceB\obj\Debug\netcoreapp2.0\ServiceB.csproj.CoreCompileInputs.cache
+C:\Users\thaboc\ServiceB\obj\Debug\netcoreapp2.0\ServiceB.AssemblyInfoInputs.cache
+C:\Users\thaboc\ServiceB\obj\Debug\netcoreapp2.0\ServiceB.AssemblyInfo.cs
+C:\Users\thaboc\ServiceB\obj\Debug\netcoreapp2.0\ServiceB.dll
+C:\Users\thaboc\ServiceB\obj\Debug\netcoreapp2.0\ServiceB.pdb
